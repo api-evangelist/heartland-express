@@ -33,7 +33,7 @@ tags:
 description: >-
   Heartland Express is a major US corporation and Fortune 1000 company. The Heartland Express API provides programmatic access to its platform services, data, and integrations for enterprise customers and partners.
 created: '2026-04-19'
-modified: '2026-04-19'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: heartland-express:heartland-express-api
@@ -51,6 +51,8 @@ apis:
     description: >-
       The Heartland Express API provides access to platform services and data for enterprise integration and automation.
 common:
+  - url: https://www.heartlandexpress.com/news
+    type: Blog
   - type: DomainSecurity
     url: security/heartland-express-domain-security.yml
   - type: LinkedIn
