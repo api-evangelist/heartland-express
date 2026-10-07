@@ -124,10 +124,8 @@ apis:
 unitEconomics:
   - name: Cost per Load Tendered
     metric: billed_cost / loads_tendered
-    target: TBD
   - name: Cost per Tracking Event
     metric: billed_cost / tracking_events
-    target: TBD
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
