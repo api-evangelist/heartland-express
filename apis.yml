@@ -51,6 +51,12 @@ apis:
     description: >-
       The Heartland Express API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/heartland-express-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/heartland-express-rate-limits.yml
+  - type: FinOps
+    url: finops/heartland-express-finops.yml
   - url: https://www.heartlandexpress.com/news
     type: Blog
   - type: DomainSecurity
